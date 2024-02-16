@@ -1,0 +1,1 @@
+# easyOCR_text_extraction_from_images_map_titles_through_jaccard_similarty_calculations
